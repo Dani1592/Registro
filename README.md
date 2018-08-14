@@ -1,12 +1,12 @@
-##Problema
+## Problema
 
 En México se calcula que operan actualmente alrededor de 74 espacios de Co-working. El Co-working se centra en la creación de un espacio que fomente la colaboración, el carácter abierto, los conocimientos compartidos, la innovación y la experiencia del usuario.
 
 Sin embrago existe un problema  de digitalización en la mayoría de los Co-workings .
 
-##Investigación
+## Investigación
 
-###Entrevista-Insights
+### Entrevista-Insights
 
 Realicé 4 entrevistas : 2 a administradores, 1 como clienta incognita y una última a un usuario de coworkings.
 
@@ -76,16 +76,17 @@ INSIGHTS DE LA ENTREVISTA
 “Existe una aplicación donde puedo mandar la invitación a la persona que vendrá a verme para que ella pueda acudir.”
 “Cuando mis jefes trae un invitado le llega un mensaje indicando que la persona llegó con nombre y foto.”
 
-##Benchmark
+## Benchmark
 Se realizo una investigación acerca de la formade registro de los Co-workers y a las diferentes apps que existen. Los resultado sfueron los siguientes:  
 https://docs.google.com/spreadsheets/d/1hgaOuc6a-Iy-mxiTHBq01ZATMmkPfPH75wBCt1LaNyo/edit?usp=sharing
 
-##Propuesta
+## Propuesta
 
-###Introducción
+### Introducción
 
 Como pudimos observar existe un rezago digital en dos Co-workings  pero al mismo tiempo, no quieren perder la parte humana pero si poder agilizar su proceso y que sea un proceso seguro para ellos estar tranquilos de que su trabajo está bien realizado.
-###Objetivos de la propuesta
+
+### Objetivos de la propuesta
 
  * Brindar una app-web que les ayude a digitalizar su procesos.
  * Poder obtener de manera rápida un registro de sus invitados.
@@ -94,7 +95,8 @@ Como pudimos observar existe un rezago digital en dos Co-workings  pero al mismo
  * Poder verificar las personas a que han ingresado al edificio.
  * Dar mayor rapidez a la comunicación de cuando llega el visitante al visitado.⋅⋅*
 
-###Definir usuarios
+### Definir usuarios
+
 Usuario 1 Administrador :
 Edad 35 a 45 años
  C, C+
@@ -105,11 +107,11 @@ Edad 35 a 45 años
 Usuario 2 Visitante:
 Edad 30 a 40 años
 C , C+
-Es una persona que utiliza el muhco el celular, es por eso que la tablet le parece familiar, les gusta trabajar en un lugar donde puedan moverse libremente y que tenga tecnologia. Son practicos y utilizan la tecnoliga para poder realizar tareas con mayor practicidad.
+Es una persona que utiliza el mucho el celular, es por eso que la tablet le parece familiar, les gusta trabajar en un lugar donde puedan moverse libremente y que tenga tecnologia. Son practicos y utilizan la tecnoliga para poder realizar tareas con mayor practicidad.
 Cuentan con un trabajo que les permite trabajr en diferentes lugar y llegan a visitar a algun amigo en su lugar de trabajo.
 
 
-###Historias de usuarios
+### Historias de usuarios
 
 * Como visitante de un Co-Working, quiero evitar un registro manual de visitantes que me puede tomar de 5 a 15 minutos para organizar mi tiempo de una forma más eficiente.
 * Como visitante de un Co-Working, quiero evitar dejar mi identificación para sentir la libertad de moverme por el edificio.
@@ -122,7 +124,7 @@ Cuentan con un trabajo que les permite trabajr en diferentes lugar y llegan a vi
 * Como administrador de un Co-working, quiero poder agilizar el proceso de registro para evitar tener tanta gente junta.
 * Como administrador de un Co-working, quiero poder hacer más ágil y práctico mi trabajo para poder tener mayor desempeño.
 
-###Logo
+### Logo
 
 <img align="center" src="src/assets/images/WhatsApp Image 2018-08-09 at 7.52.52 PM.jpeg" />
 
@@ -132,13 +134,13 @@ color gris:  queremos transmitir seguridad y formalidad.
 Tipografía San serif: se utiliza este tipo de tipografía para indicar modernización y sencillez , así como este tipo de letra transmite facilidad al leer.
 
 
-###Sketch baja fidelidad (para comprensión de flujo)
+### Sketch baja fidelidad (para comprensión de flujo)
 https://marvelapp.com/4ff8e56/screen/46636650
 
-###Sketch alta fidelidad
+### Sketch alta fidelidad
 https://marvelapp.com/73h1dbb
 
-###Pruebas de usuarios
+### Pruebas de usuarios
 Se realizaron 4 pruebas a a diferentes usuarios 3 a visitantes y 1 a un administrador
 
 <img align="center" src="src/assets/images/mariana.png" />
@@ -156,7 +158,7 @@ Visitantes
 * Les parece fácil poder hacer us registro.
 * No objetan nada encuanto a la gama de colores.
 
-###ANEXOS
+### ANEXOS
 En este archivo encontraremos los audios de las entrevistas, fotos extras, y los videos a los usuarios.
 
 https://drive.google.com/drive/folders/1qJbCjJzfgKibZY-euOK3ZepOupS9S869?usp=sharing
